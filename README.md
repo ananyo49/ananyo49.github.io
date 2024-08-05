@@ -1,1 +1,1 @@
-Link to Portfolio: https://ananyo49.github.io/ananya-srivastava/
+Check out my portfolio: https://ananyo49.github.io/ananya-srivastava/
