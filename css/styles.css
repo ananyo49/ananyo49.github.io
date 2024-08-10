@@ -1963,11 +1963,6 @@ progress {
   }
 }
 
-@media (max-width: 576px) {
-    .img-profile {
-        display: block !important; /* Force display on small screens */
-    }
-  
 .form-label {
   margin-bottom: 0.5rem;
 }
