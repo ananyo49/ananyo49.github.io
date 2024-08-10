@@ -1963,12 +1963,6 @@ progress {
   }
 }
 
-@media (max-width: 576px) {
-    .img-profile {
-        display: block !important; /* Force display on small screens */
-    }
-}
-
 .form-label {
   margin-bottom: 0.5rem;
 }
@@ -10906,8 +10900,7 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    height: auto;
-    max-width: 100%;
+    max-width: 10rem;
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
